@@ -1,0 +1,7 @@
+c:\Users\USUARIO\Documents\Visual Studio 2012\Projects\VSTest\UnitTestCalculadora\bin\Debug\UnitTestCalculadora.dll
+c:\Users\USUARIO\Documents\Visual Studio 2012\Projects\VSTest\UnitTestCalculadora\bin\Debug\UnitTestCalculadora.pdb
+c:\Users\USUARIO\Documents\Visual Studio 2012\Projects\VSTest\UnitTestCalculadora\bin\Debug\VSTest.dll
+c:\Users\USUARIO\Documents\Visual Studio 2012\Projects\VSTest\UnitTestCalculadora\bin\Debug\VSTest.pdb
+c:\Users\USUARIO\Documents\Visual Studio 2012\Projects\VSTest\UnitTestCalculadora\obj\Debug\UnitTestCalculadora.csprojResolveAssemblyReference.cache
+c:\Users\USUARIO\Documents\Visual Studio 2012\Projects\VSTest\UnitTestCalculadora\obj\Debug\UnitTestCalculadora.dll
+c:\Users\USUARIO\Documents\Visual Studio 2012\Projects\VSTest\UnitTestCalculadora\obj\Debug\UnitTestCalculadora.pdb

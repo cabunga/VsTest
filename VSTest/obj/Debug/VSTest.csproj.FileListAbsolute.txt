@@ -1,0 +1,4 @@
+c:\users\usuario\documents\visual studio 2012\Projects\VSTest\VSTest\bin\Debug\VSTest.dll
+c:\users\usuario\documents\visual studio 2012\Projects\VSTest\VSTest\bin\Debug\VSTest.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\VSTest\VSTest\obj\Debug\VSTest.dll
+c:\users\usuario\documents\visual studio 2012\Projects\VSTest\VSTest\obj\Debug\VSTest.pdb
