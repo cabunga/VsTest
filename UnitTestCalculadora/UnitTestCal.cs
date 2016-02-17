@@ -13,7 +13,7 @@ namespace UnitTestCalculadora
             Calculadora calculadora = new Calculadora();
             calculadora.Numero1 = 2;
             calculadora.Numero2 = 3;
-            Assert.AreEqual(8, calculadora.Suma());
+            Assert.AreEqual(5, calculadora.Suma());
         }
     }
 }
